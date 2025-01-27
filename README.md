@@ -41,10 +41,8 @@ npm install
 
 # Configure the Database Connection
 - Ensure PostgreSQL is running on your local machine.
-
-# Create a database named blog-db (or update the configuration to match your database name).
- 
-# Update the db.js file with your PostgreSQL credentials:
+ - Create a database named blog-db (or update the configuration to match your database name).
+ - Update the db.js file with your PostgreSQL credentials:
 
 ```Python
 import pkg from 'pg';
