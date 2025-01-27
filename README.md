@@ -30,8 +30,6 @@ This repository contains a full-stack blog application, featuring a frontend cli
    cd blog
   ```
 
-# Setup Guide
-
 ## Setup Backend
 
 ```bash
@@ -87,11 +85,11 @@ Navigate to http://localhost:3001 in your browser to interact with the frontend.
 #API Endpoints
 The backend API provides the following endpoints:
 
-GET /posts: Retrieve all blog posts.
-GET /posts/:id: Retrieve a specific blog post by ID.
-POST /posts: Create a new blog post.
-PUT /posts/:id: Update an existing blog post by ID.
-DELETE /posts/:id: Delete a blog post by ID.
+- GET /posts: Retrieve all blog posts.
+- GET /posts/:id: Retrieve a specific blog post by ID.
+- POST /posts: Create a new blog post.
+- PUT /posts/:id: Update an existing blog post by ID.
+- DELETE /posts/:id: Delete a blog post by ID.
 
 
 
